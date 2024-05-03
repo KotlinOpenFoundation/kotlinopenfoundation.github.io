@@ -1,4 +1,4 @@
-# Welcome to the Kotlin Open Foundation!
+[![Kotlin Open Foundation](kof-logo.svg)](https://kotlinopenfoundation.github.io/)
 
 The Kotlin Open Foundation is a community-driven organization dedicated to fostering 
 a vibrant open-source ecosystem for the Kotlin programming language. We aim to:
