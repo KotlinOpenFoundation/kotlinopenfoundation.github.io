@@ -1,0 +1,24 @@
+title: Kotlin Open Foundation
+author:
+  name: Tomas Pecserke
+  email: kotlin.open.foundation@gmail.com
+
+# The `>` after `description:` means to ignore line-breaks until next key.
+# If you want to omit the line-break after the end of text, use `>-` instead.
+description: >
+  The Kotlin Open Foundation is a community-driven organization dedicated to fostering
+  a vibrant open-source ecosystem for the Kotlin programming language.
+
+# domain: kotlinopenfoundation.github.io
+# url: https://kotlinopenfoundation.github.io
+
+# Build settings
+
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/).
+# theme: minima
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/KotlinOpenFoundation" }
